@@ -22,5 +22,3 @@ The app automatically calculates and displays the percentage of correct, incorre
 🔄 Responsive & Interactive UI:
 The interface is responsive and intuitive, allowing users to interact easily with the quiz, select answers, and navigate through the quiz smoothly.
 
-📝 Customizable Content:
-The quiz content, including questions and options, can be easily customized, allowing the app to be used for various quizzes and assessments.
